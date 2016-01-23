@@ -1,0 +1,28 @@
+name: gantenbein.org
+favicon: null
+layout_spectrum: 0.9724426232278347
+typography_spectrum: 0.34917071275413036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5973587986081839
+  lightness: 0.49354241555556655
+  saturation: 0.44523946940898895
+  rhythmicContrast: 0.938810805324465
+purpose: []
